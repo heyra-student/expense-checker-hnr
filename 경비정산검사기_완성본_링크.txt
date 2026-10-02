@@ -1,0 +1,6 @@
+경비 정산 검사기 — 완성본 (Next.js 웹 앱)
+
+주소: https://expense-checker-demo37.vercel.app
+
+9월_경비내역.csv 를 올리면 규정 위반 9건이 표시됩니다.
+내 결과와 나란히 열어 비교해 보세요.
